@@ -3,9 +3,21 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+#### 수상
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+`-` 2019 전북 학생통계활용발표회 동상 [2019]
 
+#### 프로젝트
 
+`-` 2019 전북 학생통계활용대회 [2019]
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+`-` 산림공공·빅데이터 활용 창업경진대회 [2022.05.17 - 2022.07.10]
+
+#### 프로그래밍 스킬
+
+`-` Python
+
+`-` R
+
+`-` C Programming language
+
